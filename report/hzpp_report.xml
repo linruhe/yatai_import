@@ -10,7 +10,6 @@
                  <field name="nbr" type="measure"/>
                  <field name="money" type="measure"/>
              	 <field name="state" type="row"/>
-             	 <field name="city" type="row"/>
              	 <field name="campaign" type="row"/>
              </graph>
          </field>
